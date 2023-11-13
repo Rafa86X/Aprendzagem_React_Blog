@@ -1,6 +1,6 @@
-import style from './menu.module.css'
+import style from './style.module.css'
 
-export default function rrr(){
+export default function rrrrr(){
 
 
     return(
