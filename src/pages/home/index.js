@@ -1,7 +1,7 @@
 import style from './style.module.css'
 
 import posts from '../../posts/posts.json'
-import Post from "../../components/post";
+import Post from "../../components/postCard";
 
 export default function Home(){
     return(
